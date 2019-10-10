@@ -5,7 +5,6 @@
     type PatternState = (Position,Pattern)
     type Depth = Int
     type Position = Int
-
     type Side = Char
     type Box = [Int]
 
